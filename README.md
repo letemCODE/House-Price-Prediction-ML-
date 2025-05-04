@@ -51,7 +51,7 @@ This project uses the following Python libraries:
 7. **regex** - Aids in feature cleaning and preparation
 8. **sklearn** - For splitting the data appropriately for testing, training, building and determining the best predective model, price prediction. 
 
-## 5. How to Use
+## 7. How to Use
 
 ### Running the Notebooks:
 
@@ -60,6 +60,6 @@ This project uses the following Python libraries:
    - Follow the steps to extract, clean, transform the data, build the model, evaluate the model and predict.
    - Evaluate the output.
 
-## 6. License
+## 8. License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
